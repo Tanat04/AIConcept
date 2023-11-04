@@ -1,0 +1,28 @@
+11
+Florence 0
+Amsterdam 1065
+Berlin 985
+Brussels 942
+Prague 742
+Frankfurt 733
+Paris 885
+Geneva 483
+Munich 485
+Grenoble 465
+Milan  248
+15
+Amsterdam Berlin 690
+Amsterdam Brussels 205
+Berlin Prague 380
+Brussels Frankfurt 405
+Brussels Paris 290
+Paris Geneva 550
+Frankfurt Prague 530
+Prague Munich 360
+Frankfurt Geneva 585
+Geneva Grenoble 310
+Grenoble Milan 390
+Geneva Milan 410
+Milan Munich 550
+Milan Florence 250
+Munich Florence 650
